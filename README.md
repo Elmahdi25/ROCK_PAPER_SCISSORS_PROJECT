@@ -27,7 +27,7 @@
 <!-- 3. Short Project Introduction -->
 
 ## 📸 Preview
-LIIIIIIINK
+[LINK](https://elmahdi25.github.io/ROCK_PAPER_SCISSORS_PROJECT/)
 
 ![alt text](img/1.png)
 
